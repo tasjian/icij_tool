@@ -1,0 +1,14 @@
+# ICIJ RAG System Requirements
+langchain>=0.1.0
+langchain-nvidia-ai-endpoints>=0.0.11
+langchain-community>=0.0.20
+langchain-core>=0.1.28
+langserve>=0.0.30
+fastapi>=0.104.0
+uvicorn>=0.24.0
+gradio>=4.0.0
+requests>=2.31.0
+numpy>=1.24.0
+networkx>=3.1
+faiss-cpu>=1.7.4
+pydantic>=2.0.0
