@@ -1,0 +1,2 @@
+/Users/zac/Desktop/ICIJ-RAG-System/enhanced_icij_ui.py:677: UserWarning: You have not specified a value for the `type` parameter. Defaulting to the 'tuples' format for chatbot messages, but this is deprecated and will be removed in a future version of Gradio. Please set type='messages' instead, which uses openai-style dictionaries with 'role' and 'content' keys.
+  investigation_chatbot = gr.Chatbot(
